@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
+| [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/shivrankumari/Leetcode/tree/master/0617-merge-two-binary-trees) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
