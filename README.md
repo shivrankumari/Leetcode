@@ -6,6 +6,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
+| [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
 |  |
@@ -47,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Sorting
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 <!---LeetCode Topics End-->
