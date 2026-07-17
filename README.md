@@ -6,6 +6,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,4 +40,32 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
+## Hash Table
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Math
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
