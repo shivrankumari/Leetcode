@@ -12,6 +12,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shivrankumari/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shivrankumari/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shivrankumari/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
