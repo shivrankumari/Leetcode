@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
@@ -45,6 +46,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 ## Hash Table
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivrankumari/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
