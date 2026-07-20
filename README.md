@@ -49,11 +49,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivrankumari/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivrankumari/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivrankumari/Leetcode/tree/master/0013-roman-to-integer) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -86,5 +88,6 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivrankumari/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivrankumari/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
