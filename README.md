@@ -120,4 +120,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shivrankumari/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
