@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivrankumari/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/shivrankumari/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivrankumari/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivrankumari/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivrankumari/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0143-reorder-list](https://github.com/shivrankumari/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/shivrankumari/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -131,4 +133,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivrankumari/Leetcode/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/shivrankumari/Leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/shivrankumari/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
