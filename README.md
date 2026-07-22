@@ -10,6 +10,7 @@
 | [0134-gas-station](https://github.com/shivrankumari/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
+| [1480-running-sum-of-1d-array](https://github.com/shivrankumari/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -93,6 +94,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shivrankumari/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
