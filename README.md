@@ -24,6 +24,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shivrankumari/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivrankumari/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/shivrankumari/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
@@ -143,6 +144,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shivrankumari/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/shivrankumari/Leetcode/tree/master/0143-reorder-list) |
 ## Simulation
 |  |
