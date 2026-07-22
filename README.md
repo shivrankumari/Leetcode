@@ -6,6 +6,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/shivrankumari/Leetcode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/shivrankumari/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivrankumari/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/shivrankumari/Leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/shivrankumari/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shivrankumari/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivrankumari/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
