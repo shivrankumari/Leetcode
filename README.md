@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shivrankumari/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/shivrankumari/Leetcode/tree/master/0066-plus-one) |
@@ -62,6 +63,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shivrankumari/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shivrankumari/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
@@ -127,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shivrankumari/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
