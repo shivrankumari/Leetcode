@@ -6,6 +6,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/shivrankumari/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shivrankumari/Leetcode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/shivrankumari/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivrankumari/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/shivrankumari/Leetcode/tree/master/0066-plus-one) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
