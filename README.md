@@ -94,6 +94,7 @@
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/shivrankumari/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
+| [3536-maximum-product-of-two-digits](https://github.com/shivrankumari/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
