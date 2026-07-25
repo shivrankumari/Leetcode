@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/shivrankumari/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/shivrankumari/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/shivrankumari/Leetcode/tree/master/0066-plus-one) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivrankumari/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/shivrankumari/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivrankumari/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivrankumari/Leetcode/tree/master/0078-subsets) |
 ## Linked List
