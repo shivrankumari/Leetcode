@@ -15,6 +15,7 @@
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivrankumari/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shivrankumari/Leetcode/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivrankumari/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivrankumari/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -135,6 +136,7 @@
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivrankumari/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivrankumari/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivrankumari/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivrankumari/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivrankumari/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
