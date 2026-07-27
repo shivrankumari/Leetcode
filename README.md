@@ -14,6 +14,7 @@
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivrankumari/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/shivrankumari/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/shivrankumari/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -107,6 +108,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/shivrankumari/Leetcode/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
