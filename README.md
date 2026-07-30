@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shivrankumari/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/shivrankumari/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivrankumari/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/shivrankumari/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivrankumari/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivrankumari/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/shivrankumari/Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/shivrankumari/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
