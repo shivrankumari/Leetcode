@@ -97,6 +97,7 @@
 | [0134-gas-station](https://github.com/shivrankumari/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0013-roman-to-integer](https://github.com/shivrankumari/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivrankumari/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/shivrankumari/Leetcode/tree/master/0383-ransom-note) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shivrankumari/Leetcode/tree/master/0383-ransom-note) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -147,6 +150,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shivrankumari/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivrankumari/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivrankumari/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -158,6 +162,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivrankumari/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shivrankumari/Leetcode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/shivrankumari/Leetcode/tree/master/0383-ransom-note) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
