@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/shivrankumari/Leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0383-ransom-note](https://github.com/shivrankumari/Leetcode/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/shivrankumari/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivrankumari/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shivrankumari/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
