@@ -20,6 +20,7 @@
 | [1840-maximum-building-height](https://github.com/shivrankumari/Leetcode/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivrankumari/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivrankumari/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/shivrankumari/Leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -80,6 +81,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivrankumari/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shivrankumari/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivrankumari/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivrankumari/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shivrankumari/Leetcode/tree/master/0704-binary-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivrankumari/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivrankumari/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -220,4 +223,13 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivrankumari/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivrankumari/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivrankumari/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivrankumari/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
