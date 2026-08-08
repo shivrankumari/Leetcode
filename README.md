@@ -51,6 +51,7 @@
 | [0148-sort-list](https://github.com/shivrankumari/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/shivrankumari/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivrankumari/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0135-candy](https://github.com/shivrankumari/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/shivrankumari/Leetcode/tree/master/0455-assign-cookies) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivrankumari/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0058-length-of-last-word](https://github.com/shivrankumari/Leetcode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/shivrankumari/Leetcode/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivrankumari/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivrankumari/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shivrankumari/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/shivrankumari/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivrankumari/Leetcode/tree/master/0055-jump-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivrankumari/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
